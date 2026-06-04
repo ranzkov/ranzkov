@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Fitriani Novita Maharani
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Informatics+Student;Laravel+Developer;Fullstack+Web+Developer;Next.js+%26+React+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Informatics+Student;Front+End+Developer;Fullstack+Web+Developer;Next.js+%26+Enthusiast;Always+Learning+New+Things+%F0%9F%9A%80" />
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranzkov&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
